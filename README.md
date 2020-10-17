@@ -1,1 +1,2 @@
-# TypeScript-parte-1-Evoluindo-seu-Javascript
+# TypeScript parte 1-Evoluindo seu Javascript
+Curso Alura
