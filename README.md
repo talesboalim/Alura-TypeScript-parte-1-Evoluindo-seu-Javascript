@@ -6,7 +6,7 @@ Curso Alura
 npm install
 ```
 
-# Exeução
+# Execução
 ```
 npm start
 ```
